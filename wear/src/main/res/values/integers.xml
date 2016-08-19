@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="weather_icon_width_round">68</integer>
+    <integer name="weather_icon_width">64</integer>
+</resources>

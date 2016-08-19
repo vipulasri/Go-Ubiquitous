@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="weather_text_size">22dp</dimen>
+
+    <dimen name="digital_text_size_round">48dp</dimen>
+    <dimen name="weather_text_size_round">28dp</dimen>
+
+    <dimen name="digital_y_offset">90dp</dimen>
+    <dimen name="digital_y_offset_round">115dp</dimen>
+
+    <dimen name="weather_y_offset">116dp</dimen>
+    <dimen name="weather_y_offset_round">140dp</dimen>
+
+    <dimen name="weather_text_spacer">12dp</dimen>
+</resources>
